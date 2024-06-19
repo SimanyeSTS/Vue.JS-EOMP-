@@ -1,11 +1,11 @@
 {
-    "jobTitles": [
+    "jobTitle": [
       "Aspirig Software Developer",
       "C# Engineer",
       "Frontend Developer",
       "Backend Developer"
     ],
-    "personalInfo": [
+    "about": [
       {
         "name": "Simanye Somdaka",
         "email": "john.doe@example.com",
@@ -41,7 +41,7 @@
           },
           {
             "title": "Intern Developer",
-            "company": "Innovative Apps",
+            "company": "Global Kinetic",
             "year": "2025-2028",
             "details": "Assisted in developing mobile applications, conducted software testing, and contributed to codebase maintenance."
           }
