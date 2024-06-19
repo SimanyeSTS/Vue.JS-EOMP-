@@ -28,6 +28,13 @@
             </tr>
         </table>
     </main>
+    <script>
+        fetch('data/data.json')
+        .then( (res)=> res.json())
+        .then( (data)=> {
+            let {results} = data
+        })
+    </script>
     <script src="data/data.json"></script>
 </body>
 </html>
