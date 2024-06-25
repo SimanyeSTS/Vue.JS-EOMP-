@@ -1,14 +1,11 @@
 {
     "jobTitle": [
-      "Aspirig Software Developer",
-      "C# Engineer",
-      "Frontend Developer",
-      "Backend Developer"
+      "Aspirig Software Developer"
     ],
     "about": [
       {
         "name": "Simanye Somdaka",
-        "email": "john.doe@example.com",
+        "email": "simanyesomdaka@example.com",
         "phone": "+27 73 063 3069",
         "address": "5553 Ida Mntwana Street, Weltevreden Valley North",
         "linkedIn": "www.linkedin.com/in/simanye-somdaka-6501712b2",
@@ -20,12 +17,14 @@
       {
         "education": [
           {
+            "id": 1,
             "matric": "Bachelors Admission Pass",
             "highSchool": "Oaklands High School",
             "year": "2023",
             "details": "Graduated with a bachelors pass, with a distinction in Maths and Science."
           },
           {
+            "id": 2,
             "qualification": "Advanced Diploma in ICT Applications Development",
             "institution": "Cape Peninsula University Of Technology",
             "year": "2024",
@@ -34,12 +33,14 @@
         ],
         "experiences": [
           {
+            "id": 3,
             "title": "Software Developer",
             "company": "Tech Solutions Inc.",
             "year": "2022-2024",
             "details": "Developed web applications using JavaScript frameworks, collaborated with cross-functional teams, and improved application performance by 30%."
           },
           {
+            "id": 4,
             "title": "Intern Developer",
             "company": "Global Kinetic",
             "year": "2025-2028",
@@ -58,27 +59,30 @@
           "C#"
         ],
         "testimonials": [
-          {
-            "name": "Jane Smith",
-            "position": "Project Manager at Tech Solutions Inc.",
+          { "id": 5,
+            "name": "Mbalentle",
+            "surname": "Diko",
             "testimonial": "John consistently delivered high-quality code on time. His ability to solve complex problems was a great asset to our team."
           },
           {
-            "name": "Khanya Pupuma",
-            "position": "Senior Developer at UX",
+            "id": 6,
+            "name": "Khanya",
+            "surname": "Pupuma",
             "testimonial": "Simanye's enthusiasm for learning and his quick adaptation to new technologies made him an exceptional intern."
           }
         ],
         "projects": [
           {
+            "id": 7,
             "name": "E-commerce Website",
             "description": "Developed a full-featured local storage e-commerce website using HTML and JavaScript, featuring user authentication, product listings, and a shopping cart.",
-            "year": "2024"
+            "image": "2024"
           },
           {
+            "id": 8,
             "name": "Newspaper Sorter",
-            "description": "Created a Press Sortee web-app using HTML and TypeScript, which fetches real-time data from a public API.",
-            "year": "2024"
+            "description": "Created a Press Sorter web-app using HTML and JavaScript, which fetches real-time data from a public API.",
+            "image": "2024"
           }
         ]
       }
